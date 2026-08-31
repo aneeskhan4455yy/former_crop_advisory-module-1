@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# PHP / local server
+vendor/
+*.log
+
+# Environment / local config overrides
+.env
+.env.local
+
+# XAMPP artifacts (if repo is kept inside htdocs)
+*.sql~
